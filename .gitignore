@@ -1,0 +1,20 @@
+# Maven build output
+target/
+my-app/target/
+
+# Maven wrapper configuration (generated, not part of the lab)
+.mvn/
+my-app/.mvn/
+
+# chromedriver binary (download manually per README instructions)
+.github/workflows/web-driver/
+
+# IDE / editor files
+.idea/
+*.iml
+.vscode/
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -29,5 +29,11 @@ jobs:
     - name: Build with Maven
       run: mvn -B package --file pom.xml
 
+<<<<<<< HEAD
     - name: Run the Maven verify phase
       run: mvn --batch-mode --update-snapshots verify
+=======
+
+
+      
+>>>>>>> b276fd5c875b30ae8df0ba9b276083e700b90e32
